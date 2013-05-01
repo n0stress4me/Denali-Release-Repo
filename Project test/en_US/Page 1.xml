@@ -5,27 +5,16 @@
     <url></url>
     <sections>
       <section>
-        <id>4</id>
-        <name>Section 4</name>
-        <assets/>
-      </section>
-      <section>
-        <id>3</id>
-        <name>Section 3</name>
-        <assets/>
-      </section>
-      <section>
-        <id>2</id>
-        <name>Section 2</name>
-        <assets/>
-      </section>
-      <section>
         <id>1</id>
         <name>Section 1</name>
         <assets>
           <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/01/2013" date-last-translated="" edit-link="">
             <id>Headline 1</id>
             <value>cool copy new</value>
+          </text>
+          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/01/2013" date-last-translated="" edit-link="">
+            <id>Headline 2</id>
+            <value>even better copy</value>
           </text>
         </assets>
       </section>
