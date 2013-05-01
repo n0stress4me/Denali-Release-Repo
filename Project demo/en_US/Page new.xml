@@ -1,0 +1,19 @@
+<page-content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../page-content.xsd">
+  <page>
+    <id>4</id>
+    <name>Page new</name>
+    <url></url>
+    <sections>
+      <section>
+        <id>6</id>
+        <name>Section 2</name>
+        <assets/>
+      </section>
+      <section>
+        <id>5</id>
+        <name>Section 1</name>
+        <assets/>
+      </section>
+    </sections>
+  </page>
+</page-content>
