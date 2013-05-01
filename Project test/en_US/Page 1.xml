@@ -1,0 +1,19 @@
+<page-content xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../page-content.xsd">
+  <page>
+    <id>1</id>
+    <name>Page 1</name>
+    <url></url>
+    <sections>
+      <section>
+        <id>1</id>
+        <name>Section 1</name>
+        <assets>
+          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/01/2013" date-last-translated="" edit-link="">
+            <id>Headline 1</id>
+            <value>cool copy new</value>
+          </text>
+        </assets>
+      </section>
+    </sections>
+  </page>
+</page-content>
