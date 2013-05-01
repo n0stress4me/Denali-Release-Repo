@@ -5,14 +5,14 @@
     <url></url>
     <sections>
       <section>
-        <id>6</id>
-        <name>Section 2</name>
-        <assets/>
-      </section>
-      <section>
         <id>5</id>
         <name>Section 1</name>
-        <assets/>
+        <assets>
+          <text is-fpo="false" owner="admin_user" comment="" date-last-modified="05/01/2013" date-last-translated="" edit-link="">
+            <id>Headline 1</id>
+            <value>some copy</value>
+          </text>
+        </assets>
       </section>
     </sections>
   </page>
